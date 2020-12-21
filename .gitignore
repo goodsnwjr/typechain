@@ -1,0 +1,9 @@
+
+# node_modeuls
+node_modules
+
+# dotenv
+.env
+
+# dist
+dist
